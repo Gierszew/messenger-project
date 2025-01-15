@@ -1,0 +1,1 @@
+# tutaj `npm install` i powinno byc git a zeby odpalic to npm run start
